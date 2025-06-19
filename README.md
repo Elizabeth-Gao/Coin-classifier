@@ -1,5 +1,5 @@
 # Coin-classifier
- Add short description of project here > The Coin-classifier detects different US coins (pennies, dimes, quarters, nickels) and identifies them. This is used for children just learning about coins, but it can also be used for other purposes too.
+The Coin-classifier detects different US coins (pennies, dimes, quarters, nickels) and identifies them. This is used for children just learning about coins, but it can also be used for other purposes.
 
 ![add image descrition here](direct image link here)
 
