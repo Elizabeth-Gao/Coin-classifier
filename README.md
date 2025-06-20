@@ -5,7 +5,7 @@ The Coin-classifier detects different US coins (pennies, dimes, quarters, nickel
 
 ## The Algorithm
 
-This is a retrained version of ResNet-18 that helps classify coins. It uses an edited version of the Jetson Inference ImageNet to identify the coins. 
+This is a retrained version of ResNet-18 that helps classify coins. It used an edited version of the Jetson Inference ImageNet to identify coins.
 
 ## Running this project
 
