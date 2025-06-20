@@ -14,4 +14,4 @@ This is a retrained version of ResNet-18 that helps classify coins. It used an e
 3. Go into the project directory and run this line of code:
   python3 coin.py --network=model/coin/resnet18.onnx --labels=model/coin/labels.txt /dev/video0 webrtc://@:8554/my_output
 
-[View a video explanation here](video link)
+Demotration video: (https://drive.google.com/file/d/1hJJJTJKR4eBJO8heZgRnJqRJadZY9F5N/view?usp=sharing)
